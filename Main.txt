@@ -1,3 +1,5 @@
 branch main 
  git add .  -> to add all file from current dir
  git reset . -> unstage all file from stage .
+
+ Removes untracked files (those not yet added to Git) from your working directory. 
